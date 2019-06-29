@@ -8,6 +8,14 @@
         "senha": "123456"
     },
     {
+        "login": "wendellturmina",
+        "nome": "Wendell",
+        "sobrenome": "turmina",
+        "foto": "",
+        "email": "wendell.turmina@e-deploy.com.br",
+        "senha": "123456"
+    },
+    {
         "login": "artdiniz",
         "nome": "Artur",
         "sobrenome": "Diniz",
